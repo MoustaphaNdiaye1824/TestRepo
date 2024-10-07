@@ -1,8 +1,3 @@
-# TestRepo
-Just a test
-Another update for just testing
-
-Using global credential
 # Markdown
 
 Markdown est un moyen simple de formater du texte sur Internet. Il permet de créer rapidement et facilement des titres, du texte en gras ou en italique, des listes et des liens. 
